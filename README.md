@@ -8,8 +8,10 @@ This web-app is made using `ReactJS` and other compoents like `Infinite-scroll`,
 - After Loading data from API, click on a tile to see the news.
 - Scroll down to load more news.
 ### Source Code
-> [Onedrive].
+> [Onedrive],
+> [Github]
 
 [Hacker News API]: <https://github.com/HackerNews/API>
+[Github]: <https://github.com/h4rSHp/Hacker-News/tree/gh-pages/src>
 [Onedrive]: <https://iitk-my.sharepoint.com/:f:/g/personal/harshp_iitk_ac_in/Ervnzxay_V5GgqEfL5o22j8BKpsOAau9RcXOU0kzVDW90w?e=i6HJZT>
 [Click here]: <https://h4rshp.github.io/Hacker-News/>
