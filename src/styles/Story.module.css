@@ -1,0 +1,19 @@
+.tile:hover{
+    background-color: rgb(15, 20, 30);
+}
+.tile{
+    color: rgb(255, 255, 255);
+    background-color: rgb(15, 24, 44);
+    padding: 16px 16px;
+    border-bottom: 2px solid rgb(60, 89, 107);
+    /* margin: 8px 0px; */
+}
+a{
+    text-decoration: none;
+    /* font-style: italic; */
+    color: rgb(9, 137, 241);
+}
+.tile p{
+    font-weight: 600;
+    padding-bottom: 4px 0;
+}
